@@ -21,8 +21,20 @@ With code, this exchange becomes much weaker. AI can generate code, but I do not
 
 In an unfamiliar field, many details remain unclear. Even when someone explains something patiently, alack of practical experience can leave me with unanswered questions.
 
+// Copilot reference
+ai assistance support & how to use ai ?...
 
+## Relationship Between Me, Ai and Programming
 
+boss and employee; me-boss, ai-employee, programming-employee's skill. boss no need to know too much, but need to know what employee good at / their skill, how those skills can help / build project. need to know how to use...
+
+Although...  cannot 100% trust
+
+## How Much Understanding Is Enough?
+
+can read, understand, basic logic
 
 ## References
 
+-Barke, S., James, M. B., & Polikarpova, N. (2022). Grounded Copilot: How programmers interact with code-generating models [Preprint]. arXiv. https://arxiv.org/abs/2206.15000
+-
