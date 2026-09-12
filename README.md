@@ -21,20 +21,31 @@ With code, this exchange becomes much weaker. AI can generate code, but I do not
 
 In an unfamiliar field, many details remain unclear. Even when someone explains something patiently, alack of practical experience can leave me with unanswered questions.
 
-// Copilot reference
-ai assistance support & how to use ai ?...
+Barke et al. (2022) observed programmers using Copilot and identified two modes of interaction: using it to accelerate work when they knew what to do next, and using it to explore possibilities when they were uncertain. The second mode connects with how I hope to use AI. Their study does not establish how much beginners need to learn, but it shows that AI assistance can support both execution and exploration.
 
-## Relationship Between Me, Ai and Programming
+Coding feels like an ocean to me. Previously, I felt I would have to dive deeply before understanding how to navigate it. Now, I hope that basic knowledge combined with AI assistance can make it easier to begin experimenting and gradually approach the results I want. This does not remove the need to learn; It could make learning more accessible and purposeful. Through programming practice and AI use, I want to develop enough understanding to participate in both modes.
 
-boss and employee; me-boss, ai-employee, programming-employee's skill. boss no need to know too much, but need to know what employee good at / their skill, how those skills can help / build project. need to know how to use...
+## Me, Ai and Programming
+
+I think of this partly as a relationship between a manager and a specialist, but needs sufficient understanding to recognised what those skills can achieve. Knowing which tasks to delegate, what support to previde, and how to evaluate the results makes collaboration more effective. However, AI does not have a human employee's accountability, and its output cannot always be assumed correct.
+
+Dell’Acqua et al. (2026) found that AI assistance improved performance on some consulting tasks but reduced correctness on a task outside its capabilities. Although this was not a programming study, it cautions against assuming that success on one task guarantees success on another.
+
+For me, understanding AI therefore means gradually testing its strengths and limitations within my own creative practive. Programming knowledge could help me explore these moew carefully. If I only learn how to request an outcome, my ability to judge whether it actually meets me needs will remain limited.
 
 Although...  cannot 100% trust
 
 ## How Much Understanding Is Enough?
 
-can read, understand, basic logic
+My current goals are to read simple code, understand its main logic, make small changes, and test whether those changed achieve the intended result. Writing some code myself still matters because I want to experience how instructions become behaviour, including how errors arise.
+
+At the same time, AI could make returning to programming less discouraging. I can ask for explanations and connect unfamiliar concepts to projects that interest me. With genuine understanding, I should be able to predict the effect of a small change, try it, and explain the result.
+
+I am learning programming to become more capable within this exchange. I want AI's growing abilities to expand what I can create. This also requires developing my own ability to question, understand, and revise what it offers.
 
 ## References
 
--Barke, S., James, M. B., & Polikarpova, N. (2022). Grounded Copilot: How programmers interact with code-generating models [Preprint]. arXiv. https://arxiv.org/abs/2206.15000
--
+Barke, S., James, M. B., & Polikarpova, N. (2022). Grounded Copilot: How programmers interact with code-generating models [Preprint]. arXiv. https://arxiv.org/abs/2206.15000
+
+Dell’Acqua, F., McFowland, E., III, Mollick, E., Lifshitz, H., Kellogg, K. C., Rajendran, S., Krayer, L., Candelon, F., & Lakhani, K. R. (2026). Navigating the jagged technological frontier: Field experimental evidence of the effects of artificial intelligence on knowledge worker productivity and quality. Organization Science. Advance online publication. https://pubsonline.informs.org/doi/10.1287/orsc.2025.21838
+
